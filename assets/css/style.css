@@ -1,0 +1,21 @@
+[ng\:cloak], [ng-cloak], .ng-cloak {
+    display: none;
+}
+
+.divController {
+    padding-top: 20px;
+}
+
+.footer-text p {
+    padding-top: 40px;
+    text-align: center;
+    color: red;
+}
+
+.defaultBorder {
+    border-color: #ced4da !important;
+}
+
+.alertBorder {
+    border-color: red !important;
+}
